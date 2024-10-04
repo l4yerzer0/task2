@@ -1,0 +1,31 @@
+* {
+  font-family: system-ui;
+}
+
+body {
+  background-color: ;
+}
+
+.page-header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.page-header h1 {
+  margin: 0;
+}
+
+.main {
+  display: flex;
+  justify-items: center;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.item {
+  margin: 20px;
+  padding: 20px;
+  text-align: center;
+  border: 1px dashed blue;
+}
